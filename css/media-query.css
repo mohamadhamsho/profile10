@@ -12,6 +12,12 @@
         width: 230px;
         left: -230px;
     }
+    .aside .copyright{
+        font-size: 10px;
+    }
+    .aside .logo a{
+        font-size: 32px;
+    }
     .toggle-nav{
         position: absolute;
         right: -30px;
@@ -27,12 +33,16 @@
         background-color: #181818;
         color: #fff;
     }
+    body .toggle-nav{
+        top: 110px;
+    }
     .aside .navbar-section{
         margin-top: 40px;
     }
     .section{
         left: 0;
         width: 100%;
+        padding: 50px 30px 30px;
     }
     .home .effect1{
         width: 130px;
@@ -74,7 +84,7 @@
     .blog .blog-item .blog-date {
         top: 190px;
     }
-    .input-group .input-textarea{
+    .contact .input-textarea{
         width: 100%;
     }
     .contact .btn{
