@@ -12,12 +12,8 @@
         width: 230px;
         left: -230px;
     }
-    .aside .copyright{
-        font-size: 11px;
-    }
     .toggle-nav{
         position: absolute;
-        top: 110px;
         right: -30px;
         width: 30px;
         height: 30px;
@@ -37,7 +33,6 @@
     .section{
         left: 0;
         width: 100%;
-        padding: 30px;
     }
     .home .effect1{
         width: 130px;
@@ -77,12 +72,11 @@
         width: 6%;
     }
     .blog .blog-item .blog-date {
-        top: 135px;
+        top: 190px;
     }
-    .contact .input-textarea{
+    .input-group .input-textarea{
         width: 100%;
     }
-    
     .contact .btn{
         margin: 20px auto;
         display: block;
